@@ -1,4 +1,5 @@
 #The Maze
+
 ![Repo License](https://img.shields.io/github/license/Alph-aine/The-Maze)
 ![Repo Size](https://img.shields.io/github/repo-size/Alph-aine/The-Maze)
 ![Last commit](https://img.shields.io/github/last-commit/Alph-aine/The-Maze)
