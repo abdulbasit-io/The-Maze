@@ -12,15 +12,15 @@ $ git clone git@github.com:Alph-aine/The-Maze.git
 ```
 
 ## Usage
-`w`: move up 
-`s`: move down
-`d`: move left
-`a`: move right
+`w`: move up  
+`s`: move down  
+`d`: move left  
+`a`: move right  
 
 ## Compilation
 On Linux 
 ```sh
-make linux
+make linux 
 ```
 
 On Mac
@@ -54,7 +54,7 @@ Contains all images used.
 Contains the map data files.
 
 ## Screenshot
-
+![image](https://github.com/Alph-aine/The-Maze/blob/dc465b2d3c8f52d7078679ee303f5cb931082a5e/images/The-Maze.png)
 
 
 ## Contributing
