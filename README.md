@@ -1,4 +1,9 @@
 #The Maze
+![Repo License](https://img.shields.io/github/license/Alph-aine/The-Maze)
+![Repo Size](https://img.shields.io/github/repo-size/Alph-aine/The-Maze)
+![Last commit](https://img.shields.io/github/last-commit/Alph-aine/The-Maze)
+
+
 The Maze is a 3D game that uses raycasting to render 2D map into a 3D world!  
 
 The Maze is writtn in `C` using `SDL2` library. Development was performed on `Ubuntu 22.04 LTS`  
