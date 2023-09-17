@@ -73,7 +73,7 @@ Contains the map data files.
 - Open a Pull Request with a comprehensive description of changes.
 
 ## Demo
-[![The Maze Demo](https://i.imgur.com/5Ss7s1S.png)](https://www.youtube.com/embed/6T2N8gNUTQ8)
+[![The Maze Demo](https://www.youtube.com/embed/LP8pBF223-c)
 
 ## AUTHOR
 Abdulbasit Abdulrafiu <aabdulrafiu721@gmail.com>
