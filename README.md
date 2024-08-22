@@ -14,7 +14,7 @@ The Maze is writtn in `C` using `SDL2` library. Development was performed on `Ub
 
 ## Installation
 ```sh
-$ git clone git@github.com:Alph-aine/The-Maze.git
+$ git clone git@github.com:abdulbasit-io/The-Maze.git
 ```
 
 ## Usage
@@ -43,30 +43,30 @@ After compilation, run the following command:
 where ```MAP``` is the name of the file found in the map folder. You can create other maps and pass them while running program as above. Map files accept only the allowed characters.
 
 ## Directories
-[`src`](https://github.com/Alph-aine/The-Maze/tree/main/src)
+[`src`](https://github.com/abdulbasit-io/The-Maze/tree/main/src)
 
 Contains all source code written in C.
 
-[`inc`](https://github.com/Alph-aine/The-Maze/tree/main/inc)
+[`inc`](https://github.com/abdulbasit-io/The-Maze/tree/main/inc)
 
 Contains all header files.
 
-[`images`](https://github.com/Alph-aine/The-Maze/tree/main/images)
+[`images`](https://github.com/abdulbasit-io/The-Maze/tree/main/images)
 
 Contains all images used.
 
-[`maps`](https://github.com/Alph-aine/The-Maze/tree/main/maps)
+[`maps`](https://github.com/abdulbasit-io/The-Maze/tree/main/maps)
 
 Contains the map data files.
 
 ## Screenshot
-![image](https://github.com/Alph-aine/The-Maze/blob/dc465b2d3c8f52d7078679ee303f5cb931082a5e/images/The-Maze.png)
+![image](https://github.com/abdulbasit-io/The-Maze/blob/dc465b2d3c8f52d7078679ee303f5cb931082a5e/images/The-Maze.png)
 
 
 ## Contributing
 
 - Read the source files in ```src``` folder and the header files in ```inc``` folder.
-- Clone the repo and make a new branch: `$ git checkout https://github.com/Alph-aine/The-Maze.git -b [name_of_new_branch].`
+- Clone the repo and make a new branch: `$ git checkout https://github.com/abdulbasit-io/The-Maze.git -b [name_of_new_branch].`
 - Add a feature, fix a bug, or refactor some code :)
 - Write/update tests for the changes you made, if necessary.
 - Update README.md if necessary.
